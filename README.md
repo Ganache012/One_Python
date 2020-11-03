@@ -10,3 +10,6 @@
 
 20201102 - ch05 if문 공부, for문 (단일 for문 앞 공부)
 
+20201103 - ch05 중첩 for문, while문 break, continue, comprehension(list, set, dictionary)에 관해
+
+20201104 - ch06
