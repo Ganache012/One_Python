@@ -11,3 +11,5 @@
 20201102 - ch05 if문 공부, for문 (단일 for문 앞 공부)
 
 20201103 - ch05 중첩 for문, while문 break, continue, comprehension(list, set, dictionary) 진행
+
+20201111 - HelloWorld Python3 패키지, 모듈, 웹 크롤링 기본 
