@@ -13,3 +13,5 @@
 20201103 - ch05 중첩 for문, while문 break, continue, comprehension(list, set, dictionary) 진행
 
 20201111 - HelloWorld Python3 패키지, 모듈, 웹 크롤링 기본 
+
+20201112 - HelloWorld Python3 데이터 분석 패키지(pandas, numpy, matplotlib) 설치, 및 응용 방법, 행렬곱 
